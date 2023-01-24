@@ -5,6 +5,7 @@ backend:
   ### enable below lines for github integration ###
   name: github
   repo: TeeWallz/monty-neat
+  branch: main
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
